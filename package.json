@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@vue/cli": "^4.5.13"
+    "@vue/cli": "^5.0.0-beta.1"
   }
 }
